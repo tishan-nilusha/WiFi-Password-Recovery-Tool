@@ -70,7 +70,6 @@ No external dependencies
 Keychain Access: Mac stores WiFi passwords in the Keychain. The script uses the security command to retrieve them.
 Popup Dialog: When running, Mac may show a popup asking for permission to access the Keychain. Click Allow or enter your password.
 Wireless Interface: The script tries en0 first, then en1. If neither works, check your interface with:
-Bash
 networksetup -listallhardwareports
 Alternative Method: If the script doesn't work, you can manually check passwords in:
 Open Keychain Access app
