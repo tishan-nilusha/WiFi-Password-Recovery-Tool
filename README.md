@@ -45,6 +45,7 @@
 ```bash
 git clone https://github.com/tishan-nilusha/wifresti.git
 cd wifresti
+```
 
 🚀 Usage
 
