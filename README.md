@@ -43,7 +43,7 @@
 ## 📥 Installation
 
 ```bash
-git clone https://github.com/tishan-nilusha/wifresti.git
+git clone https://github.com/tishan-nilusha/WiFi-Password-Recovery-Tool
 cd wifresti
 ```
 
