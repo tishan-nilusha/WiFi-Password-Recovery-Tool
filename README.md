@@ -44,7 +44,7 @@
 
 ```bash
 git clone https://github.com/tishan-nilusha/WiFi-Password-Recovery-Tool
-cd wifresti
+cd WiFi-Password-Recovery-Tool
 ```
 
 🚀 Usage
