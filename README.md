@@ -49,18 +49,21 @@ cd wifresti
 
 🚀 Usage
 
-🐧 Linux
-Bash
+Linux
+```bash
 sudo python3 wifresti.py
+```
 
-🪟 Windows
-Bash
+Windows
+```bash
 python wifresti.py
 Run as Administrator
+```
 
 🍎 macOS
-Bash
+```Bash
 sudo python3 wifresti.py
+```
 
 📦 Requirements
 Python 3.6+
