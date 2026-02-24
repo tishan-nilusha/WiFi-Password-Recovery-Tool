@@ -60,7 +60,7 @@ python wifresti.py
 Run as Administrator
 ```
 
-🍎 macOS
+macOS
 ```Bash
 sudo python3 wifresti.py
 ```
@@ -70,8 +70,8 @@ Python 3.6+
 No external dependencies
 
 ⚠️ Disclaimer
-This tool is for educational purposes and legitimate password recovery only.
-Use it only on systems you own. The author is not responsible for any misuse.
+  This tool is for educational purposes and legitimate password recovery only.
+  Use it only on systems you own. The author is not responsible for any misuse.
 
 👤 Author
 Tishan Nilusha
