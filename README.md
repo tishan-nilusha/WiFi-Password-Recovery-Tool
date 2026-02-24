@@ -66,6 +66,7 @@ sudo python3 wifresti.py
 ```
 
 📦 Requirements
+
 Python 3.6+
 No external dependencies
 
